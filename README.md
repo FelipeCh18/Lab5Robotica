@@ -70,3 +70,4 @@ Cabe aclarar que la interfaz HMI se programó para la consola de linux.
 <p style = 'text-align:center;' align="center">
 <img src="images/1717384619483.jpg" width="500px" >
 </p>
+Los trazos que funcionan con el giro de una sola unión, se denotan muy claros y limpios, sin embargo, cuando son movimientos lentos y cortos, al robot le cuesta seguir una trayectoria limpia.
